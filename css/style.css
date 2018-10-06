@@ -394,8 +394,8 @@ body.offcanvas {
     .colorlib-about,
     .colorlib-services,
     .colorlib-contact {
-      padding-top: 5em;
-      padding-bottom: 8em; } }
+      /*padding-top: 5em;
+      padding-bottom: 8em; */} }
 
 .author-img {
   background-size: cover;
